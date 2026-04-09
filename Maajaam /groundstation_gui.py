@@ -1,3 +1,11 @@
+#  See on meie maajaama kood, mis:
+#  - kuvab satelliidi 3D mudelit reaalajas IMU andmete põhjal
+#  - visualiseerib telemeetriat graafikutena
+#  - joonistab täpse 2D lennuinstrumendi (attitude indicator)
+#  - salvestab kõik andmed
+#  - loob kasutajaliidest
+
+
 import tkinter as tk
 from tkinter import ttk, messagebox
 import serial
