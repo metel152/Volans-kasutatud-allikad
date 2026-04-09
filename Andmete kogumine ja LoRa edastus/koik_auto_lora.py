@@ -1,3 +1,15 @@
+# See kood on sensorite logimise ja telemeetria süsteem, mis:
+#   -juhtib BMP280, IMU, güroskoobi, kaamerat
+#   -loeb andureid (temperatuur, rõhk, kõrgus, kiirendus)  
+#   - arvutab kõrguse meetrites baromeetri rõhu põhjal
+#   - teeb ühe pildi sekundis 
+#   - salvestab kõik andmed CSV-failidesse
+#   - tagab, et logi- ja pildikaustad olemas on
+#   - saadab CSV-failid ja pildipreview LoRa kaudu (saadetakse ainult iga 10. pilt)
+#   - logib CSV-faili ja prindib seda ekraanile 
+
+
+
 from picamera2 import Picamera2
 import time
 from datetime import datetime
