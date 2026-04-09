@@ -1,3 +1,11 @@
+# See kood on sensorite logimise süsteem, mis:
+#   - juhib BMP280 baromeetrit ja MPU6500 IMU-d (kiirendus + gyroskoop)
+#   - loeb andureid iga sekundi järel (temperatuur, rõhk, kiirendus, gyroskoop)
+#   - salvestab andmed baro_logi.csv ja imu_logi.csv failidesse
+#   - prindib andmed ekraanile iga tsükli järel
+#   - peatub, kui kasutaja vajutab Ctrl+C
+
+
 import time
 import math
 import csv
