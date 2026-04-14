@@ -1,3 +1,9 @@
+# See kood: 
+#   - loeb BMP280 baromeetri ja MPU6500 IMU andmeid ning salvestab need CSV-failidesse
+#   - juhib Picamera2 kaamerat (teeb iga tsükli jooksul pilte)
+#   - salvestab pilte eraldi kaustas koos ajaga
+#   - kood töötab pidevas tsüklis kuni kasutaja katkestuseni
+
 from picamera2 import Picamera2
 import time
 from datetime import datetime
