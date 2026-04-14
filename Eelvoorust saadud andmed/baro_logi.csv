@@ -1,5 +1,5 @@
 #BMP280 sensorilt saadud andmed (temperatuur, õhurõhk ja arvutatud kõrgus) 
-#CSV-fail sisaldab andmeid eelvoorupäevast ja meie katselendudest 
+#CSV-fail sisaldab andmeid eelvoorupäevast ja meie katselendudest m
 
 timestamp,temperature_C,pressure_hPa,altitude_m
 2026-02-25 19:43:33,20.09,1022.74
