@@ -1,3 +1,5 @@
+#BMP280 saadud andmed, mis tuleb vormistada CSV-failiks.
+
 timestamp,temperature_C,pressure_hPa,altitude_m
 2026-03-20 11:02:09,13.77,1001.49,98.35
 2026-03-20 11:02:10,13.76,1000.71,104.90
