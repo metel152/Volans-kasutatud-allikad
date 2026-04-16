@@ -1,6 +1,6 @@
 #  See kood on kaamerapiltide logimise süsteem, mis:
 #   - juhib Picamera2 kaamerat
-#   - teeb ühe pildi sekundis
+#   - teeb kümme pilte sekundis
 #   - salvestab pildid määratud kausta
 #   - tagab, et pildikaust olemas on
 #   - prindib pildifaili asukoha ekraanile
