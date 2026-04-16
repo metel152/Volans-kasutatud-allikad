@@ -1,3 +1,4 @@
+
 #  See kood on kaamerapiltide logimise süsteem, mis:
 #   - juhib Picamera2 kaamerat
 #   - teeb kümme pilte sekundis
