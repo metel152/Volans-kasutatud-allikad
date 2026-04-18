@@ -1,1 +1,6 @@
-
+adafruit-circuitpython-bmp280
+smbus2
+picamera2
+pySerial
+Pillow
+libcap-dev
