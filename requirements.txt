@@ -4,3 +4,4 @@ picamera2
 pySerial
 Pillow
 libcap-dev
+pynmea2
