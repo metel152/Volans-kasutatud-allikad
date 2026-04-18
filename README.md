@@ -25,6 +25,7 @@ Iga kausta juures on ka lühikirjeldus.
 - Matplotlib
 - Pillow
 - Pandas
+- libcap-dev
 
 ---
 
