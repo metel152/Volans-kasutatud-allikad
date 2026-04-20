@@ -87,7 +87,3 @@ sudo apt install python3-picamera2 python3-smbus i2c-tools
 
 ---
 
-## Roadmap
-
-- Automaatsete graafikute genereerimine  
-- Piltide analüüsi koodi arendamine  
