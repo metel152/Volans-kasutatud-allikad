@@ -17,11 +17,11 @@ from PIL import Image
 # =========================================================
 
 # LoRa UART
-LORA_PORT = "/dev/serial0"
+LORA_PORT = "/dev/ttyUSB0"
 LORA_BAUD = 57600
 
 # GNSS UART
-GNSS_PORT = "/dev/ttyAMA0"   # MUUDA VAJADUSEL
+GNSS_PORT = "/dev/serial0"   # MUUDA VAJADUSEL
 GNSS_BAUD = 115200
 
 # Kaustad
