@@ -5,3 +5,4 @@ pySerial
 Pillow
 libcap-dev
 pynmea2
+pyopengltk
