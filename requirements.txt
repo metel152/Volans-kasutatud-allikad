@@ -1,8 +1,13 @@
 adafruit-circuitpython-bmp280
 smbus2
 picamera2
-pySerial
+pyserial
 Pillow
-libcap-dev
 pynmea2
 pyopengltk
+PyOpenGL
+tkintermapview
+matplotlib
+gspread
+google-auth
+requests
