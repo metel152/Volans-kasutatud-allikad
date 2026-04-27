@@ -275,9 +275,9 @@ Kaardil on:
 
 ---
 
-## Ground Station asukoht
+## Maajaama asukoht
 
-Ground station asukohta saab määrata mitmel viisil:
+Maajaama asukohta saab määrata mitmel viisil:
 
 - käsitsi koordinaate sisestades
 - `GND=SAT` nupuga, kasutades viimast CanSat GPS asukohta
@@ -303,8 +303,6 @@ Asukoht salvestatakse lokaalselt, et seda ei peaks iga kord uuesti sisestama.
 **Volans**
 
 ---
-
-# English Version
 
 ## About the Project
 
