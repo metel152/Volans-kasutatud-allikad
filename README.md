@@ -211,7 +211,7 @@ Upload kasutab batchimist, et vältida Google Sheets API write quota probleeme.
 
 ## Asukoha määramine
 
-Ground station asukohta saab määrata mitmel viisil:
+Maajaama asukohta saab määrata mitmel viisil:
 
 - **GND=SAT** – määrab ground stationi viimase CanSat GPS asukoha järgi
 - **AVG GND** – võtab mitu GPS näitu ja kasutab keskmist
