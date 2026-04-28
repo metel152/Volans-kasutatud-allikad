@@ -1,3 +1,4 @@
+adafruit-blinka
 adafruit-circuitpython-bmp280
 smbus2
 picamera2
@@ -11,3 +12,5 @@ matplotlib
 gspread
 google-auth
 requests
+cryptography
+pandas
