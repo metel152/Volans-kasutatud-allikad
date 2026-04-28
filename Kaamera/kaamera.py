@@ -1,4 +1,13 @@
-from picamera2 import Picamera2
+
+#  See kood on kaamerapiltide logimise süsteem, mis:
+#   - juhib Picamera2 kaamerat
+#   - teeb kümme pilte sekundis
+#   - salvestab pildid määratud kausta
+#   - tagab, et pildikaust olemas on
+#   - prindib pildifaili asukoha ekraanile
+#   - peatub turvaliselt, kui kasutaja vajutab Ctrl+C
+
+
 import time
 from datetime import datetime
 import os

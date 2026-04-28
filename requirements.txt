@@ -1,0 +1,13 @@
+adafruit-circuitpython-bmp280
+smbus2
+picamera2
+pyserial
+Pillow
+pynmea2
+pyopengltk
+PyOpenGL
+tkintermapview
+matplotlib
+gspread
+google-auth
+requests
